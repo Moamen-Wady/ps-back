@@ -9,7 +9,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "https://ps-ruby.vercel.app",
-    "https://ps-front.pages.dev/book"
+    "https://ps-front.pages.dev"
   ],
   credentials: true,
   optionSuccessStatus: 200,
