@@ -8,8 +8,8 @@ require("dotenv").config();
 const corsOptions = {
   origin: [
     "http://localhost:5173",
-    "https://ps-ruby.vercel.app/",
     "https://ps-ruby.vercel.app",
+    "https://ps-front.pages.dev/book"
   ],
   credentials: true,
   optionSuccessStatus: 200,
